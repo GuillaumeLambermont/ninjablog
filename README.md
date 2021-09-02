@@ -1,0 +1,1 @@
+# ninjablog
